@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chubby Buddy</string>
+    <string name="tab_text_1">Fitness</string>
+    <string name="tab_text_2">Diet</string>
+</resources>
